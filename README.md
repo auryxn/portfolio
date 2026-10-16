@@ -1,14 +1,14 @@
 # Портфолио — карта проектов
 
 > Личная коллекция проектов: веб-приложения, боты, лендинги и эксперименты.
-> Основной сайт-портфолио: [site-admin](https://github.com/auryxn/site-admin).
+> Основной сайт-портфолио: [auryxn.codes](https://auryxn.codes) — репозиторий сайта [site-admin](https://github.com/auryxn/site-admin).
 
 Этот репозиторий — **навигационная карта**: список всех проектов со ссылками на
 их репозитории, кратким описанием, стеком и статусом. Исходный код каждого
 проекта лежит в собственном публичном репозитории.
 
 - **Владелец:** [auryxn](https://github.com/auryxn)
-- **Профиль-портфолио:** [auryxn.github.io](https://auryxn.github.io) *(плейсхолдер до деплоя)*
+- **Профиль-портфолио:** [auryxn.codes](https://auryxn.codes)
 
 ---
 
@@ -72,6 +72,7 @@ banketai, kontaktai. Vienas `index.html` failas.
 ### 🖥️ auryxn / site-admin — [репозиторий](https://github.com/auryxn/site-admin)
 Личный сайт-портфолио в стиле Web 1.0 + админ-панель с редактируемым
 контентом (профиль, проекты, стек, опыт, ссылки, сообщения).
+**Сайт:** [auryxn.codes](https://auryxn.codes)
 **Стек:** React · Vite · Node.js (stdlib) · SQLite. **Статус:** готов.
 
 ---
