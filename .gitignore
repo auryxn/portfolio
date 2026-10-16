@@ -1,0 +1,35 @@
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# node / build (if subprojects added later)
+node_modules/
+dist/
+build/
+.next/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# env & secrets
+.env
+.env.*
+!.env.example
+
+# databases
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+
+# media
+*.webm
+*.mp4
